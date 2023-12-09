@@ -18,5 +18,6 @@ Dataset used for training and prediction is in the link: https://www.kaggle.com/
 3. Launch the Jupyter Notebook
 4. Navigate to the cloned folder
 5. Open the "CSC580_ML_Project.ipynb" file
-6. Run the file using "Restart and Run all"
-7. You will get the results of all chunks
+6. Download the dataset
+7. Run the file using "Restart and Run all"
+8. You will get the results of all chunks
