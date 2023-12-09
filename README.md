@@ -9,7 +9,7 @@ The project aims to enhance our understanding of asteroid distribution across th
 - **Model:** Two-Layered Neural Network
 
 ## Dataset
-Dataset used for the prediction is in the data folder named as asteroid.csv
+Dataset used for training and prediction is in the link: https://www.kaggle.com/code/blulypsee/asteroid-diameter-prediction-mlp-catboost-lgbm/input?select=Asteroid_Updated.csv
 
 ## Steps to follow
 
